@@ -8,7 +8,14 @@
 
 # Languages used:
 - React Framework for Front-End (HTML, CSS, & JS) 
-- MongoDB For Back-End (Python)
+- Python (FastAPI) for Back-End
+- MongoDB Atlas for Cloud Database
+
+# Development Tools
+- VS Code
+- Node.js & npm
+- Python & pip
+- Git
 
 # AI's Used:
 - Emergent AI
