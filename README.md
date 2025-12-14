@@ -1,10 +1,10 @@
 # Mock up McLaren Website
 
 # Members:
-Jerome Medina
-Vincent Brian Somido
-Roi Martin Castillo
-Juliana Bilazon
+- Jerome Medina
+- Vincent Brian Somido
+- Roi Martin Castillo
+- Juliana Bilazon
 
 # Languages used:
 - React Framework for Front-End (HTML, CSS, & JS) 
